@@ -1,5 +1,5 @@
 # Interview-Oriented-Competitive-Coding
-
+UPDATE YOUR PROGRESS HERE: <a href="https://docs.google.com/spreadsheets/d/1SH37_ALpMzFp0YYamFo63Qly1fL5_u8CaGahINCc3lw/edit?usp=sharing"> Google Spreadsheet</a>
 <h2>Day 1 Resources</h2>
   <a href="https://www.geeksforgeeks.org/stack-data-structure/">Stack</a><br>
   <a href="https://www.geeksforgeeks.org/queue-data-structure/">Queue</a><br>
